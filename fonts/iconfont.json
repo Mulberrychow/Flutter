@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4753345",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e7f7",
+      "unicode_decimal": 59383
+    },
+    {
+      "icon_id": "5207056",
+      "name": "攻略",
+      "font_class": "gonglve",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "22220272",
+      "name": "会",
+      "font_class": "hui",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "28101985",
+      "name": "指导",
+      "font_class": "zhidao",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    }
+  ]
+}
